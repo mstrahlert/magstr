@@ -1,1 +1,3 @@
-# magStrava
+# magstr
+
+Strava analytics
